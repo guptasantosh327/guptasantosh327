@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🌱 I’m currently learning Node, Express, Firebase
+- 📫 How to reach me: guptasanosh327@gmail.com
+- ⚡ Fun fact: EXTC Engineer
 <!--
 **guptasantosh327/guptasantosh327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
