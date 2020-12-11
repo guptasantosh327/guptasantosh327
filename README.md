@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently working on Node, Express and Firebase
+📣 I’m currently working on Node, Express and Firebase
 - 💻 Technology: Node, Express, Angular, Javascript, Bootsrap, HTML, CSS
 - 📫 How to reach me: guptasantosh327@gmail.com
 - ⚡ Fun fact: EXTC Engineer
