@@ -2,7 +2,7 @@
 📣 I’m currently working on Node, Express and Firebase
 - 💻 Technology: Node, Express, Angular, Javascript, Bootsrap, HTML, CSS
 - 📫 How to reach me: guptasantosh327@gmail.com
-- ⚡ Fun fact: EXTC Engineer
+
 <!--
 **guptasantosh327/guptasantosh327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
