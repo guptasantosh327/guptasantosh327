@@ -1,6 +1,32 @@
-### Hi there 👋
-📣 I’m currently working on Node, Express and Firebase
-- 💻 Technology: Node, Express, Angular, Javascript, Bootsrap, HTML, CSS
+# guptasantosh327
+
+Welcome! This repository showcases my work and projects built with Node.js, Express, and Firebase. Explore below to discover what I've been up to.
+
+---
+
+##  About Me
+
+Hi there 👋  
+I’m Santosh Gupta, a passionate developer currently working with:
+- **Node.js**
+- **Express.js**
+- **Angular**
+- **Firebase**
+- **JavaScript**, **HTML**, **CSS**
+- **Bootstrap**
+
+---
+
+##  Technologies & Tools
+
+| Category         | Tools & Frameworks                |
+|------------------|-----------------------------------|
+| Backend          | Node.js, Express.js, Nest.js      |
+| Frontend         | Vue, Javscript, Angular           |
+| Styling          | Bootstrap, Tailwind               |
+| Database         | MongoDB, Firebase, MySQL          |
+
+
 - 📫 How to reach me: guptasantosh327@gmail.com
 
 <!--
