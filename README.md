@@ -43,11 +43,6 @@ I build and maintain npm packages that solve real production pain points:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptasantosh327&show_icons=true&theme=default&hide_border=true" alt="Santosh's GitHub stats" />
-</p>
 
 ---
 
