@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santosh-gupta-developer/">LinkedIn</a> ·
-  <a href="https://www.npmjs.com/~guptasantosh327">npm</a> ·
+  <a href="https://www.npmjs.com/~santosh327">npm</a> ·
   <a href="mailto:guptasantosh327@gmail.com">Email</a>
 </p>
 
