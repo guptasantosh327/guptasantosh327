@@ -1,50 +1,58 @@
-# guptasantosh327
+<h1 align="center">Hi, I'm Santosh Gupta 👋</h1>
 
-Welcome! This repository showcases my work and projects built with Node.js, Express, and Firebase. Explore below to discover what I've been up to.
+<p align="center">
+  <b>Senior Software Development Engineer</b> · 5+ years building full-stack apps, distributed systems & cloud-native microservices
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santosh-gupta-developer/">LinkedIn</a> ·
+  <a href="https://www.npmjs.com/~guptasantosh327">npm</a> ·
+  <a href="mailto:guptasantosh327@gmail.com">Email</a>
+</p>
 
 ---
 
-# Hi, I'm Santosh Gupta 👋  
+### 🚀 About me
 
-🚀 Senior Software Development Engineer with 5+ years of experience in designing and scaling **full-stack applications, distributed systems, and cloud-native microservices**.  
+I design and scale high-performance backend systems with **Node.js, NestJS, and TypeScript** — with deep experience in **event-driven architecture, microservices, and cloud platforms (GCP & AWS)**.
 
-💡 Skilled in building high-performance systems using **Node.js, NestJS, Vue, Angular, and TypeScript**, with strong expertise in **event-driven architecture, microservices, and cloud platforms (GCP & AWS)**.  
+I care about building systems that are **scalable, reliable, and production-ready**, optimizing performance for high-traffic applications, and mentoring engineers along the way.
 
-🔧 Passionate about:
-- Architecting scalable, reliable backend systems  
-- Optimizing performance for high-traffic applications  
-- Leveraging **cloud, DevOps, and automation** to deliver production-ready solutions  
-
-📈 Always exploring new technologies, contributing to impactful projects, and mentoring engineers.  
 ---
 
-##  Technologies & Tools
+### 📦 Open Source
 
-| Category         | Tools & Frameworks                |
-|------------------|-----------------------------------|
-| Backend          | Node.js, Express.js, Nest.js      |
-| Frontend         | Vue, Javscript, Angular           |
-| Styling          | Bootstrap, Tailwind               |
-| Database         | MongoDB, Firebase, MySQL          |
+I build and maintain npm packages that solve real production pain points:
 
+- **[mongo-migrate-kit](https://www.npmjs.com/package/mongo-migrate-kit)** — Production-grade MongoDB migration toolkit for Node.js. Single-file migrations, dry-runs, rollbacks, concurrency locks, checksum tamper-detection, transactions, and first-class TypeScript. One-command adoption from `migrate-mongo`.
+- **[koa-joi-request-validate](https://www.npmjs.com/package/koa-joi-request-validate)** — Clean, declarative request validation middleware for Koa, powered by Joi.
 
-### 📫 Connect with Me
+> ⭐ If these save you time, a star helps others find them.
 
-- 📧 Email: **guptasantosh327@gmail.com**  
-- 💼 LinkedIn: [Santosh Gupta](https://www.linkedin.com/in/santosh-gupta-developer/)  
-- 🌐 GitHub: [guptasantosh327](https://github.com/guptasantosh327)  
+---
 
-<!--
-**guptasantosh327/guptasantosh327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech I work with
 
-Here are some ideas to get you started:
+| Category   | Tools & Frameworks                  |
+|------------|-------------------------------------|
+| Backend    | Node.js, Express.js, NestJS         |
+| Frontend   | Vue, Angular, JavaScript/TypeScript |
+| Styling    | Tailwind, Bootstrap                 |
+| Database   | MongoDB, MySQL, Firebase            |
+| Cloud      | GCP, AWS                            |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Node, Express, Firebase
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: guptasanosh327@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: EXTC Engineer
--->
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guptasantosh327&show_icons=true&theme=default&hide_border=true" alt="Santosh's GitHub stats" />
+</p>
+
+---
+
+### 📫 Connect
+
+- 📧 **guptasantosh327@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/santosh-gupta-developer/)
+- 📦 [npm packages](https://www.npmjs.com/~guptasantosh327)
